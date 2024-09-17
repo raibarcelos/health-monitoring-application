@@ -121,12 +121,12 @@ Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes
 
 ## 📝 Contato
 
-- **Seu Nome** - [@seu-usuario](https://github.com/seu-usuario)
+- **Seu Nome** - [@seu-usuario](https://github.com/raibarcelos)
 - **E-mail:** seu-email@example.com
 
 ---
 
-Feito com por [Raí Barcelos Farias](https://github.com/seu-usuario)
+Feito com por [Raí Barcelos Farias](https://github.com/raibarcelos)
 ```
 
 
