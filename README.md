@@ -1,5 +1,3 @@
-# health-monitoring-application
-
 ## 📋 Visão Geral
 
 O **Aplicativo de Monitoramento de Saúde** é uma plataforma completa de monitoramento de saúde que permite aos usuários registrar atividades físicas, alimentação, sono e metas de saúde. A aplicação oferece integração com APIs externas para dados de fitness, geração de relatórios em PDF e envio de notificações por e-mail.
@@ -100,10 +98,10 @@ Configure as propriedades de e-mail no arquivo `application.properties` para hab
 ## 📷 Capturas de Tela
 
 ![Dashboard](src/main/resources/static/images/dashboard.png)
-_Exemplo de Dashboard de Estatísticas_
+*Exemplo de Dashboard de Estatísticas*
 
 ![Registro de Atividades](src/main/resources/static/images/activities.png)
-_Exemplo de Registro de Atividades Físicas_
+*Exemplo de Registro de Atividades Físicas*
 
 ## 🤝 Contribuição
 
@@ -129,8 +127,7 @@ Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes
 ---
 
 Feito com por [Raí Barcelos Farias](https://github.com/seu-usuario)
-
-````
+```
 
 
 ## Referência
@@ -146,10 +143,10 @@ Feito com por [Raí Barcelos Farias](https://github.com/seu-usuario)
 
 ```http
   GET /api/items
-````
+```
 
-| Parâmetro | Tipo     | Descrição                           |
-| :-------- | :------- | :---------------------------------- |
+| Parâmetro   | Tipo       | Descrição                           |
+| :---------- | :--------- | :---------------------------------- |
 | `api_key` | `string` | **Obrigatório**. A chave da sua API |
 
 #### Retorna um item
@@ -158,6 +155,8 @@ Feito com por [Raí Barcelos Farias](https://github.com/seu-usuario)
   GET /api/items/${id}
 ```
 
-| Parâmetro | Tipo     | Descrição                                   |
-| :-------- | :------- | :------------------------------------------ |
+| Parâmetro   | Tipo       | Descrição                                   |
+| :---------- | :--------- | :------------------------------------------ |
 | `id`      | `string` | **Obrigatório**. O ID do item que você quer |
+
+
